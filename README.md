@@ -11,6 +11,8 @@
   This is a simple application to take notes and save them.
   ![note ss](./Assets/note.png)git 
   ![note2 ss](./Assets/note2.png)
+  
+  deployed app: https://note-jot-app.herokuapp.com/
 
   ## Installation
   To install run npm i
